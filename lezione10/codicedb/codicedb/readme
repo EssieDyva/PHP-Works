@@ -1,0 +1,5 @@
+
+
+usando questo codice come esempio possiamo creare un nuovo file per cancellare per esempio l'id 2 degli speaker:
+
+creare un nuovo file delete_by_id.php che riceve in GET come parametro 'id' e cancellare il record
